@@ -1,3 +1,3 @@
 # Testnewproj
-new project for tet
+new project for test
 this used for testing purpose
